@@ -1,0 +1,22 @@
+ What is React?
+- What are the features of React?
+- What is JSX?
+- Can web browsers read JSX directly?
+- How do you create a React app?
+- What is an event in React? And how can you create it?
+- What is the use of render() in React?
+- What is the difference between Element and Component?
+- Difference between class components and functional components
+- What is a state in React
+- What are props in React?
+- What is the difference between state and props?
+- What is "key" prop and what is the benefit of using it in arrays of elements?
+- What is virtual DOM?
+- How does Virtual DOM work?
+- What is reconciliation?
+- How to write comments in React?
+- Why React uses className over class attribute?
+- What are the lifecycle methods of React?
+- Explain React hooks
+- What is useState?
+- What is useEffect?

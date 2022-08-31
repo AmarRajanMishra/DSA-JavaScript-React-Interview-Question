@@ -1,0 +1,24 @@
+-What do you know about JavaScript? 
+-What are the topics you know in JavaScript practical implementation? 
+-What is the difference between HTML5 and HTML.
+-What is the use of head tag in html?
+-What is DOCTYPE html?
+-Is there any compiler required to run the JS code? 
+-Datatypes & Variables in JavaScript.
+-Difference between var and let keyword.
+-What is Global Variable?
+-What is a scope.
+-What is a Function. Write a sample code.
+-What are the type of pop-ups available in JavaScript.
+-Alert the current date and time upon clicking on a html button.
+-for Vs while Vs do-while Loop
+-JavaScript Operators
+== Vs ===
+null Vs undefined Vs not defined
+i++ Vs ++i  (Given a scenario)
+
+-What are the type of selectors are there in CSS?
+-In how many ways can CSS style can be applied.
+-What is CSS Box Model?
+-What is the difference between margin and padding?
+-Is CSS case-sensitive?

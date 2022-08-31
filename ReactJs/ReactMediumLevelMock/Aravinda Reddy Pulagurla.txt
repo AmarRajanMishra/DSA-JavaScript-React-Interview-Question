@@ -1,0 +1,13 @@
+What is React -Yes
+-what is virtualDom and Dom in react -Yes
+-what is event capturing and event bubbling-No
+-What is a controlled and uncontrolled component? -Yes
+-what is useref in react-Yes
+-What is the difference between server side render and client side render -No
+-what is React Routers -Yes
+-Context Api-Yes
+-What is pure component - Yes
+-What are fragments?-Yes
+-Create  button after click the button should display the current time and update the time 
+-Counter application 
+- Todo List Application

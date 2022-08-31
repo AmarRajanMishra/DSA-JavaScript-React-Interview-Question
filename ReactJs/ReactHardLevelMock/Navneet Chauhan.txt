@@ -1,0 +1,10 @@
+1. fetch an api and print the data 
+2. conext API
+3. virtual DOM
+4. hooks
+5. use state
+6. use ref
+7. usestate to make a counter
+8. react routing
+9. prop drilling? ways to avoid it.
+10. Counter Application
