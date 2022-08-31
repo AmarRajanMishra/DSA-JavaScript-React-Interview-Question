@@ -1,0 +1,6 @@
+Q1 : What is string in java and diff. methods on strings?
+Q2 : Write the code to reverse the vowels of a given string?
+Q3 : Write the code to reverse the string?
+Q4 : Explain about linked list and its diff. types?
+Q5 : How to insert a given node in linked list?
+Q6 : Explain about stack and queue with examples ?

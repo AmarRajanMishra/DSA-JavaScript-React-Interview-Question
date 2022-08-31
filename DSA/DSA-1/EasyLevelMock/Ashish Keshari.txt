@@ -1,0 +1,3 @@
+Implement Selection Sort.
+Print non-repeated values of an integer array.
+Implement Binary Search.

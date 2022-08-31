@@ -1,0 +1,4 @@
+1. Difference between linked list and array? Partially Answered
+2. Explain stack and queue with the help of real life example ?  Answered
+3. WAP to remove duplicate character from a given string? Answered
+4. WAP to delete nth node from end of linked list? Not Answered

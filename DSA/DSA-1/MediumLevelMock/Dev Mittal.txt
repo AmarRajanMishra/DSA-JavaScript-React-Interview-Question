@@ -1,0 +1,2 @@
+1. Closest greater number in the right side of each element.
+2. Farthest greater number in the right side of each element.
