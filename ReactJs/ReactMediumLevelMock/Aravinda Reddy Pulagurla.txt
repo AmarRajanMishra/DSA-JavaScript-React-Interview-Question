@@ -1,13 +1,22 @@
-What is React -Yes
+Mock React-> Medium Level
+
+-What is React -Yes
+-what are the advantages of using react ?-Yes
 -what is virtualDom and Dom in react -Yes
+-what are props -Yes
+- what is prop Drilling-Yes
+-what is jsx  -Yes
 -what is event capturing and event bubbling-No
 -What is a controlled and uncontrolled component? -Yes
 -what is useref in react-Yes
 -What is the difference between server side render and client side render -No
 -what is React Routers -Yes
 -Context Api-Yes
+-what are Hooks -Yes
 -What is pure component - Yes
 -What are fragments?-Yes
+-What is the difference between a function component and class component?-Yes
 -Create  button after click the button should display the current time and update the time 
 -Counter application 
 - Todo List Application
+ -https://jsonplaceholder.typicode.com/users by using the api create a table
